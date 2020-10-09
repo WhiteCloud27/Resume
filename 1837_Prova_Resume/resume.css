@@ -1,0 +1,72 @@
+body{
+	background-color: rgb(245,245,245);
+	margin: 30px 250px 100px 250px;
+	font-family: 'Poppins', sans-serif;
+	border:2px solid #b2beb5;
+	text-indent: 20px;
+}
+#name{
+	font-family: 'Poppins', sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+.fa-map-marker{
+	padding: 10px 0px 10px 20px;
+}
+
+.fa-envelope{
+	padding: 0px 0px 0px 0px;
+}
+.fa-phone-square-alt{
+	padding: 10px 0px 10px 20px;
+}
+
+
+.link{
+	text-decoration: none;
+	color: black;
+}
+.linkfoot{
+	text-decoration: none;
+}
+.point{
+	font-size: 20px;
+	font-family: cursive;
+}
+
+.Contest{
+	font-weight: 600;
+}
+#foot{
+	color: blue;
+}
+#start{
+	font-weight: lighter;
+	font-family: cursive;
+	font-size: 20px;
+}
+#LANGUAGES,#HOBBIES, #ACCOMPLISHMENTS,#SKILLS,#EDUCATION{
+	list-style-type: none;
+}
+#foot{
+	display: inline;
+	list-style-type: none;
+}
+#SKILLS{
+	font-family: 'Architects Daughter', cursive;
+	font-size: 20px;
+}
+.fa-github{
+	padding: 0px 0px 0px 30px;
+}
+.fa-feather-alt,.fa-user-graduate,.fa-trophy,.fa-globe,.fa-biking{
+	padding: 0px;
+	text-indent: 4px;
+}
+.test{
+	text-indent: 64px;
+}
+
+
+
+
